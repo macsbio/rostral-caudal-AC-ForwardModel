@@ -1,0 +1,2 @@
+# rostral-caudal-AC-ForwardModel
+Predicting Neuronal Response Properties from Hemodynamic Responses in the Auditory Cortex
