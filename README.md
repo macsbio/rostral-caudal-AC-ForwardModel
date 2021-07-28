@@ -11,13 +11,13 @@ In the attached compressed zip folder, you will find two sub-folders and a scrip
 
 This script simulates neuronal responses using Wilson Cowan Cortical Model (Zulfiqar et al., 2020) with varying spectro-temporal properties (indicated by tau: TIME CONSTANT and Q: QUALITY FACTOR for frequency tuning curves) in the Belt region. This is acheieved by manipulating the: 
 
-    _Time constant, tau (for temporal dynamics)
+    Time constant, tau (for temporal dynamics)
     The connectivity kernel (controlling connectivity between the simulated core and belt region), and
-    Sigmas (spatial spread of activation)_
+    Sigmas (spatial spread of activation)
     
 Overall, these parameters control the dynamics of the belt region.Input signal (sound) is passed throught the model to mimic the stimulus presented in the fMRI experiment (Santoro et al., 2017) in a fast event related design where stimulus is presented in silent interval after acquisition.
 
-Sample output for this script is located at _'...\Hemodynamic Model\neuronal simulations\subj1'_
+    Sample output for this script is located at _'...\Hemodynamic Model\neuronal simulations\subj1'_
 
 
 2. **Folder Hemodynamic Model** contains 3 subfolders.
