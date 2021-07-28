@@ -1,11 +1,10 @@
 # rostral-caudal-AC-ForwardModel
-Predicting Neuronal Response Properties from Hemodynamic Responses in the Auditory Cortex
+**Predicting Neuronal Response Properties from Hemodynamic Responses in the Auditory Cortex**
 
-Authors: Isma Zulfiqar*, Martin Havlicek*, Michelle Moerel, Elia Formisano
+_Authors: Isma Zulfiqar*, Martin Havlicek*, Michelle Moerel, Elia Formisano_
+_*equal contribution_
 
-*equal contribution
-
-In the folder Code, you will find two sub-folders and a matlab script (.m) file.
+In the folder **Code**, you will find two sub-folders and a matlab script (.m) file.
 
 1. **Folder Neuronal Model** contains main script _**AC_model.m**_: 
 
