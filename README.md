@@ -17,7 +17,7 @@ This script simulates neuronal responses using Wilson Cowan Cortical Model (Zulf
     
 Overall, these parameters control the dynamics of the belt region.Input signal (sound) is passed throught the model to mimic the stimulus presented in the fMRI experiment (Santoro et al., 2017) in a fast event related design where stimulus is presented in silent interval after acquisition.
 
-    Sample output for this script is located at _'...\Hemodynamic Model\neuronal simulations\subj1'_
+    Sample output for this script is located at '...\Hemodynamic Model\neuronal simulations\subj1'
 
 
 2. **Folder Hemodynamic Model** contains 3 subfolders.
